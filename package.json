@@ -1,0 +1,33 @@
+{
+    "name": "@weekfox/react-native-weekfox-app",
+    "version": "1.0.0",
+    "description": "this is designed for weekfox app",
+    "homepage": "https://github.com/weekfox/react-native-weekfox-app",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native-weekfox-app",
+      "@weekfox/react-native-weekfox-app"
+    ],
+    "author": {
+      "name": "weekfox",
+      "email": "weekfox@example.com"
+    },
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/weekfox/react-native-weekfox-app.git"
+    },
+    "dependencies": {
+        "react-native-code-push": "^7.0.4",
+        "react-native-root-toast": "^3.4.0",
+        "react-native-splash-screen": "^3.2.0",
+        "@react-native-community/netinfo": "^8.3.0"
+    },
+    "peerDependencies": {
+      "react-native": ">=0.64.0"
+    }
+  }
+  
